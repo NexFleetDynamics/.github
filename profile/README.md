@@ -1,9 +1,15 @@
-<h1 align="center"> NexFleet Dynamics </h1>
+<div align="center">
+    <img src="assets/nexfleet-dynamics-logo-sm.png">
+</div>
+
 <h2 align="center">Bestlink College of the Philippines: Cluster I - Bus Transportation Management System</h2>
 
 <div align="center">
     <img src="assets/bus-background.jpg" style="width: 80%;">
 </div>
+
+## Presentation Template
+### [Cluster I Template](https://www.canva.com/design/DAGS8U-9Nv8/gCOdSV34-mIk77i-WV2vkA/view?mode=preview)
 
 ## Repositories
 
